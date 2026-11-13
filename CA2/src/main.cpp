@@ -523,7 +523,7 @@ int main()
             break;
  
         case 6:
-            cout << "Thank you for using Rural Irrigation Turn Allocation!\n";
+            cout << "Thank you for using Rural Irrigation Turn Allocation! Made by Nishant Kumar!\n";
             break;
  
         default:
